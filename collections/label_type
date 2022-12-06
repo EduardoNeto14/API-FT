@@ -1,0 +1,2 @@
+{"_id":{"$oid":"6377bc76c78a2d6c9193af10"},"code":"LABEL_BACK","description":{"en":"Back Label","pt":"Etiqueta das Costas"},"img":"","metadata":"SEW_LABEL_POSITION_BACK"}
+{"_id":{"$oid":"6377bc8fc78a2d6c9193af12"},"code":"LABEL_SIDE","description":{"en":"Side Label","pt":"Etiqueta Lateral"},"img":"","metadata":"SEW_LABEL_POSITION_SIDE"}

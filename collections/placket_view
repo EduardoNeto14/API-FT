@@ -1,0 +1,2 @@
+{"_id":{"$oid":"637b94c05c251121559eba14"},"code":"PLACKET_RIGHT","description":{"en":"Right Placket View","pt":"Vista Direta da Carcela"}}
+{"_id":{"$oid":"637b94cf5c251121559eba16"},"code":"PLACKET_LEFT","description":{"en":"Left Placket View","pt":"Vista Esquerda da Carcela"}}

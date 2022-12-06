@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6377b4e2c78a2d6c9193aef6"},"code":"BUTTON_4_PARALLEL","description":{"en":"Button w/ 4 Holes and Parallel Lines","pt":"Botão de 4 Furos com Linhas Paralelas"},"img":""}
+{"_id":{"$oid":"6377b51bc78a2d6c9193aef8"},"code":"BUTTON_4_SQUARE","description":{"en":"Button w/ 4 Holes - Square Shape","pt":"Botão de 4 Furos em Quadrado"},"img":""}
+{"_id":{"$oid":"6377b57fc78a2d6c9193aefa"},"code":"BUTTON_4_CROSS","description":{"en":"Button w/ 4 Holes - Cross Shape","pt":"Botão de 4 Furos em Cruz"},"img":""}
+{"_id":{"$oid":"6377b5b8c78a2d6c9193aefc"},"code":"BUTTON_4_CROSS_SQUARE","description":{"en":"Button w/ 4 Holes - Cross and Square Shape","pt":"Botão de 4 Furos em Cruz e Quadrado"},"img":""}
+{"_id":{"$oid":"6377b615c78a2d6c9193aefe"},"code":"BUTTON_4_PARALLEL_CROSS","description":{"en":"Button w/ 4 Holes - Parallel and Cross Shape","pt":"Botão de 4 Furos com Cruz e Linhas Paralelas"},"img":""}

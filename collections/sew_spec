@@ -1,0 +1,12 @@
+{"_id":{"$oid":"63775ac1c78a2d6c9193aec4"},"garmentType":["FINISHED_PRODUCTS_SHIRT"],"code":"SPEC_SEAM","description":{"pt":"Especificação de Costura","en":"Seam Specification"},"metadata":"SEW_SEAM_SPEC"}
+{"_id":{"$oid":"63775afdc78a2d6c9193aec6"},"code":"SPEC_CUFF","garmentType":["FINISHED_PRODUCTS_SHIRT"],"description":{"pt":"Especificação do Punho","en":"Cuff Specification"},"metadata":"SEW_CUFF_SPEC"}
+{"_id":{"$oid":"63775b2bc78a2d6c9193aec8"},"garmentType":["FINISHED_PRODUCTS_SHIRT"],"code":"SPEC_COLLAR","description":{"pt":"Especificação do Colarinho","en":"Collar Specification"},"metadata":"SEW_COLLAR_SPEC"}
+{"_id":{"$oid":"63775b46c78a2d6c9193aeca"},"code":"SPEC_PLACKET","garmentType":["FINISHED_PRODUCTS_SHIRT"],"description":{"pt":"Especificação da Carcela","en":"Placket Specification"},"metadata":"SEW_PLACKET_SPEC"}
+{"_id":{"$oid":"63775b65c78a2d6c9193aecc"},"code":"SPEC_POCKET","garmentType":["FINISHED_PRODUCTS_SHIRT"],"description":{"pt":"Especificação do Bolso","en":"Pocket Specification"},"metadata":"SEW_POCKET_SPEC"}
+{"_id":{"$oid":"63775b7ec78a2d6c9193aece"},"code":"SPEC_BUTTON","garmentType":["FINISHED_PRODUCTS_SHIRT"],"description":{"pt":"Especificação do Botão","en":"Button Specification"},"metadata":"SEW_BUTTON_SPEC"}
+{"_id":{"$oid":"63775b9ec78a2d6c9193aed0"},"code":"SPEC_BUTTONHOLE","garmentType":["FINISHED_PRODUCTS_SHIRT"],"description":{"pt":"Especificação da Casa do Botão","en":"Buttonhole Specification"},"metadata":"SEW_BUTTONHOLE_SPEC"}
+{"_id":{"$oid":"63775bb6c78a2d6c9193aed2"},"code":"SPEC_PLEAT","garmentType":["FINISHED_PRODUCTS_SHIRT"],"description":{"pt":"Especificação da Prega","en":"Pleat Specification"},"metadata":"SEW_PLEAT_SPEC"}
+{"_id":{"$oid":"63775bd5c78a2d6c9193aed4"},"code":"SPEC_INTERFACING","garmentType":["FINISHED_PRODUCTS_SHIRT"],"description":{"pt":"Especificação da Entretela","en":"Interfacing Specification"},"metadata":"SEW_INTERFACING_SPEC"}
+{"_id":{"$oid":"63775beac78a2d6c9193aed6"},"code":"SPEC_HEM","garmentType":["FINISHED_PRODUCTS_SHIRT"],"description":{"pt":"Especificação da Bainha","en":"Hem Specification"},"metadata":"SEW_HEM_SPEC"}
+{"_id":{"$oid":"63775c07c78a2d6c9193aed8"},"code":"SPEC_DART","garmentType":["FINISHED_PRODUCTS_SHIRT"],"description":{"pt":"Especificação da Pinça","en":"Dart Specification"},"metadata":"SEW_DART_SPEC"}
+{"_id":{"$oid":"63775c1ec78a2d6c9193aeda"},"code":"SPEC_LABEL","garmentType":["FINISHED_PRODUCTS_SHIRT"],"description":{"pt":"Especificação da Etiqueta","en":"Label Specification"},"metadata":"SEW_LABEL_SPEC"}

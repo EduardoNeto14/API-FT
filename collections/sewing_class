@@ -1,0 +1,8 @@
+{"_id":{"$oid":"637ca0b6a993bf17de1deca2"},"code":"SEWING_CLASS1","description":{"en":"","pt":"Classe 1 - Costuras Sobrepostas"}}
+{"_id":{"$oid":"637ca0b6a993bf17de1deca3"},"code":"SEWING_CLASS2","description":{"en":"","pt":"Classe 2 - Costuras Sobrepostas Parcialmente"}}
+{"_id":{"$oid":"637ca0b6a993bf17de1deca4"},"code":"SEWING_CLASS3","description":{"en":"","pt":"Classe 3 - Costuras de Segurança"}}
+{"_id":{"$oid":"637ca0b6a993bf17de1deca5"},"code":"SEWING_CLASS4","description":{"en":"","pt":"Classe 4 - Costuras Planas"}}
+{"_id":{"$oid":"637ca0b6a993bf17de1deca6"},"code":"SEWING_CLASS5","description":{"en":"","pt":"Classe 5 - Costuras Decorativas"}}
+{"_id":{"$oid":"637ca0b6a993bf17de1deca7"},"code":"SEWING_CLASS6","description":{"en":"","pt":"Classe 6 - Costuras de Acabamento"}}
+{"_id":{"$oid":"637ca0b6a993bf17de1deca8"},"code":"SEWING_CLASS7","description":{"en":"","pt":"Classe 7 - Costuras para Aplicações (2+)"}}
+{"_id":{"$oid":"637ca0b6a993bf17de1deca9"},"code":"SEWING_CLASS8","description":{"en":"","pt":"Classe 8 - Costuras para Aplicações (1)"}}

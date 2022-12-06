@@ -1,0 +1,41 @@
+{"_id":{"$oid":"637675f866ee5926b8c055d2"},"careType":"WASHING","code":"WASHING_95_BOIL","description":{"en":"95 ºC Boil Wash","pt":"Temperatura Máxima de Lavagem 95 ºC - Processo Normal"},"img":""}
+{"_id":{"$oid":"637676eb66ee5926b8c055d4"},"careType":"WASHING","code":"WASHING_70_BOIL","description":{"en":"70 ºC Boil Wash","pt":"Temperatura Máxima de Lavagem 70 ºC - Processo Normal"},"img":""}
+{"_id":{"$oid":"6376771066ee5926b8c055d6"},"careType":"WASHING","code":"WASHING_60_BOIL","description":{"en":"60 ºC Boil Wash","pt":"Temperatura Máxima de Lavagem 60 ºC - Processo Normal"},"img":""}
+{"_id":{"$oid":"6376772866ee5926b8c055d8"},"careType":"WASHING","code":"WASHING_60_MILD","description":{"en":"60 ºC Mild Wash","pt":"Temperatura Máxima de Lavagem 60 ºC - Processo Suave"},"img":""}
+{"_id":{"$oid":"6376774766ee5926b8c055da"},"careType":"WASHING","code":"WASHING_50_BOIL","description":{"en":"50 ºC Boil Wash","pt":"Temperatura Máxima de Lavagem 50 ºC - Processo Normal"},"img":""}
+{"_id":{"$oid":"6376778366ee5926b8c055dc"},"careType":"WASHING","code":"WASHING_50_MILD","description":{"en":"50 ºC Mild Wash","pt":"Temperatura Máxima de Lavagem 50 ºC - Processo Suave"},"img":""}
+{"_id":{"$oid":"6376779666ee5926b8c055de"},"careType":"WASHING","code":"WASHING_40_BOIL","description":{"en":"40 ºC Boil Wash","pt":"Temperatura Máxima de Lavagem 40 ºC - Processo Normal"},"img":""}
+{"_id":{"$oid":"637677ad66ee5926b8c055e0"},"careType":"WASHING","code":"WASHING_40_MILD","description":{"en":"40 ºC Mild Wash","pt":"Temperatura Máxima de Lavagem 40 ºC - Processo Suave"},"img":""}
+{"_id":{"$oid":"637677c766ee5926b8c055e2"},"careType":"WASHING","code":"WASHING_40_VERY_MILD","description":{"en":"40 ºC Very Mild Wash","pt":"Temperatura Máxima de Lavagem 40 ºC - Processo Muito Suave"},"img":""}
+{"_id":{"$oid":"637677dd66ee5926b8c055e4"},"careType":"WASHING","code":"WASHING_30_BOIL","description":{"en":"30 ºC Boil Wash","pt":"Temperatura Máxima de Lavagem 30 ºC - Processo Normal"},"img":""}
+{"_id":{"$oid":"637677f066ee5926b8c055e6"},"careType":"WASHING","code":"WASHING_30_MILD","description":{"en":"30 ºC Mild Wash","pt":"Temperatura Máxima de Lavagem 30 ºC - Processo Suave"},"img":""}
+{"_id":{"$oid":"6376780466ee5926b8c055e8"},"careType":"WASHING","code":"WASHING_30_VERY_MILD","description":{"en":"30 ºC Very Mild Wash","pt":"Temperatura Máxima de Lavagem 30 ºC - Processo Muito Suave"},"img":""}
+{"_id":{"$oid":"6376781466ee5926b8c055ea"},"careType":"WASHING","code":"WASHING_HAND","description":{"en":"Hand Wash","pt":"Lavagem à Mão - Temperatura Máxima de Lavagem 40 ºC"},"img":""}
+{"_id":{"$oid":"6376782f66ee5926b8c055ec"},"careType":"WASHING","code":"WASHING_DO_NOT_WASH","description":{"en":"Do Not Wash","pt":"Não Lavar"},"img":""}
+{"_id":{"$oid":"63774f0fc78a2d6c9193ae8e"},"careType":"BLEACHING","code":"BLEACHING_ANY_ALLOWED","description":{"en":"Any Bleach Allowed","pt":"Qualquer Branqueador Permitido"},"img":""}
+{"_id":{"$oid":"63774f23c78a2d6c9193ae90"},"careType":"BLEACHING","code":"BLEACHING_ONLY_OXYGEN","description":{"en":"Only Oxygen Bleach Allowed","pt":"Apenas Branqueadores de Oxigénio Permitidos"},"img":""}
+{"_id":{"$oid":"63774f37c78a2d6c9193ae92"},"careType":"BLEACHING","code":"BLEACHING_DO_NOT_BLEACH","description":{"en":"Do Not Bleach","pt":"Não Branquear"},"img":""}
+{"_id":{"$oid":"63774fa4c78a2d6c9193ae94"},"careType":"DRYING","code":"DRYING_TUMBLE_NORMAL","description":{"en":"Tumble Dry - Normal Temperature","pt":"Possível Secagem em Tambor - Temperatura Normal, Temperatura de Exaustão Máx. 80 ºC"},"img":""}
+{"_id":{"$oid":"63774fbfc78a2d6c9193ae96"},"careType":"DRYING","code":"DRYING_TUMBLE_LOW","description":{"en":"Tumble Dry - Low Temperature","pt":"Possível Secagem em Tambor - Temperatura Baixa, Temperatura de Exaustão Máx. 60 ºC"},"img":""}
+{"_id":{"$oid":"63774fd3c78a2d6c9193ae98"},"careType":"DRYING","code":"DRYING_DO_NOT_TUMBLE","description":{"en":"Do Not Tumble Dry","pt":"Não Secar em Tambor"},"img":""}
+{"_id":{"$oid":"63774fe6c78a2d6c9193ae9a"},"careType":"DRYING","code":"DRYING_LINE","description":{"en":"Line Drying","pt":"Secagem em Linha"},"img":""}
+{"_id":{"$oid":"63774ffac78a2d6c9193ae9c"},"careType":"DRYING","code":"DRYING_DRIP_LINE","description":{"en":"Drip Line Drying","pt":"Secagem em Linha na Horizontal"},"img":""}
+{"_id":{"$oid":"6377500bc78a2d6c9193ae9e"},"careType":"DRYING","code":"DRYING_FLAT","description":{"en":"Flat Drying","pt":"Secagem Plana"},"img":""}
+{"_id":{"$oid":"6377501bc78a2d6c9193aea0"},"careType":"DRYING","code":"DRYING_DRIP_FLAT","description":{"en":"Drip Flat Drying","pt":"Secagem em  na Horizontal"},"img":""}
+{"_id":{"$oid":"63775050c78a2d6c9193aea2"},"careType":"DRYING","code":"DRYING_LINE_SHADE","description":{"en":"Line Drying in the Shade","pt":"Secagem em Linha à Sombra"},"img":""}
+{"_id":{"$oid":"63775060c78a2d6c9193aea4"},"careType":"DRYING","code":"DRYING_DRIP_LINE_SHADE","description":{"en":"Drip Line Drying in the Shade","pt":"Secagem em Linha na Horizontal à Sombra"},"img":""}
+{"_id":{"$oid":"63775075c78a2d6c9193aea6"},"careType":"DRYING","code":"DRYING_FLAT_SHADE","description":{"en":"Flat Drying in the Shade","pt":"Secagem Plana à Sombra"},"img":""}
+{"_id":{"$oid":"6377508bc78a2d6c9193aea8"},"careType":"DRYING","code":"DRYING_DRIP_FLAT_SHADE","description":{"en":"Drip Flat Drying in the Shade","pt":"Secagem Plana na Horizontal à Sombra"},"img":""}
+{"_id":{"$oid":"637750d3c78a2d6c9193aeaa"},"careType":"IRONING","code":"IRONING_HOT_TEMP","description":{"en":"Hot Iron - Maximum Temperature 200 ºC","pt":"Temperatura Máxima da Base do Ferro de 200 ºC"},"img":""}
+{"_id":{"$oid":"637750e1c78a2d6c9193aeac"},"careType":"IRONING","code":"IRONING_MODERATE_TEMP","description":{"en":"Iron at Moderate Temperature - Maximum Temperature 150 ºC","pt":"Temperatura Máxima da Base do Ferro de 150 ºC"},"img":""}
+{"_id":{"$oid":"637750efc78a2d6c9193aeae"},"careType":"IRONING","code":"IRONING_LOW_TEMP","description":{"en":"Iron at Low Temperature - Maximum Temperature 110 ºC","pt":"Temperatura Máxima da Base do Ferro de 110 ºC"},"img":""}
+{"_id":{"$oid":"63775108c78a2d6c9193aeb0"},"careType":"IRONING","code":"IRONING_DO_NOT_IRON","description":{"en":"Do Not Iron","pt":"Não Passar"},"img":""}
+{"_id":{"$oid":"6377511bc78a2d6c9193aeb2"},"careType":"PROFESSIONAL","code":"PROFESSIONAL_DRY_CLEANING_TETRACHLOETHYLENE_NORMAL","description":{"en":"","pt":"Limpeza a Seco Profissional com Tetracloroetileno e Todos os Solventes Listados para o Símbolo F - Processo Normal"},"img":""}
+{"_id":{"$oid":"6377512bc78a2d6c9193aeb4"},"careType":"PROFESSIONAL","code":"PROFESSIONAL_DRY_CLEANING_TETRACHLOETHYLENE_SOFT","description":{"en":"","pt":"Limpeza a Seco Profissional com Tetracloroetileno e Todos os Solventes Listados para o Símbolo F - Processo Suave"},"img":""}
+{"_id":{"$oid":"6377513cc78a2d6c9193aeb6"},"careType":"PROFESSIONAL","code":"PROFESSIONAL_DRY_CLEANING_HYDROCARBON_NORMAL","description":{"en":"","pt":"Limpeza a Seco Profissional com Hidrocarboneto - Processo Normal"},"img":""}
+{"_id":{"$oid":"63775262c78a2d6c9193aeb8"},"careType":"PROFESSIONAL","code":"PROFESSIONAL_DRY_CLEANING_HYDROCARBON_SOFT","description":{"en":"","pt":"Limpeza a Seco Profissional com Hidrocarboneto - Processo Suave"},"img":""}
+{"_id":{"$oid":"63775275c78a2d6c9193aeba"},"careType":"PROFESSIONAL","code":"PROFESSIONAL_NO_DRY_CLEANING","description":{"en":"","pt":"Não Limpar a Seco"},"img":""}
+{"_id":{"$oid":"63775289c78a2d6c9193aebc"},"careType":"PROFESSIONAL","code":"PROFESSIONAL_WET_CLEANING_NORMAL","description":{"en":"Professional Wet Cleaning - Normal Process","pt":"Limpeza a Húmido Profissional - Processo Normal"},"img":""}
+{"_id":{"$oid":"6377529ac78a2d6c9193aebe"},"careType":"PROFESSIONAL","code":"PROFESSIONAL_WET_CLEANING_SOFT","description":{"en":"Professional Wet Cleaning - Soft Process","pt":"Limpeza a Húmido Profissional - Processo Suave"},"img":""}
+{"_id":{"$oid":"637752acc78a2d6c9193aec0"},"careType":"PROFESSIONAL","code":"PROFESSIONAL_WET_CLEANING_VERY_SOFT","description":{"en":"Professional Wet Cleaning - Very Soft Process","pt":"Limpeza a Húmido Profissional - Processo Muito Suave"},"img":""}
+{"_id":{"$oid":"637752bbc78a2d6c9193aec2"},"careType":"PROFESSIONAL","code":"PROFESSIONAL_NO_WET_CLEANING","description":{"en":"No Wet Cleaning","pt":"Não Limpar a Húmido"},"img":""}

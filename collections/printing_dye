@@ -1,0 +1,5 @@
+{"_id":{"$oid":"637f5a3e2b478ec337185e18"},"code":"PRINTING_DYE_ACID","description":{"en":"","pt":"Ácido"}}
+{"_id":{"$oid":"637f5a3e2b478ec337185e19"},"code":"PRINTING_DYE_REACTIVE","description":{"en":"","pt":"Reativo"}}
+{"_id":{"$oid":"637f5a3e2b478ec337185e1a"},"code":"PRINTING_DYE_DISPERSE","description":{"en":"","pt":"Disperso"}}
+{"_id":{"$oid":"637f5a3e2b478ec337185e1b"},"code":"PRINTING_DYE_PIGMENT","description":{"en":"","pt":"Pigmento"}}
+{"_id":{"$oid":"637f5a3e2b478ec337185e1c"},"code":"PRINTING_DYE_SUBLIMINATION","description":{"en":"","pt":"Subliminação"}}

@@ -1,0 +1,7 @@
+{"_id":{"$oid":"637f59cf2b478ec337185e11"},"code":"FABRIC_STRUCTURE_PLAIN","description":{"en":"Plain Weave","pt":"Tafetá"}}
+{"_id":{"$oid":"637f59cf2b478ec337185e12"},"code":"FABRIC_STRUCTURE_WARP","description":{"en":"Warp Rib","pt":""}}
+{"_id":{"$oid":"637f59cf2b478ec337185e13"},"code":"FABRIC_STRUCTURE_FILLING","description":{"en":"Filling Rib","pt":""}}
+{"_id":{"$oid":"637f59cf2b478ec337185e14"},"code":"FABRIC_STRUCTURE_BASKET","description":{"en":"Basket","pt":"Ponto Tipo Panamá"}}
+{"_id":{"$oid":"637f59cf2b478ec337185e15"},"code":"FABRIC_STRUCTURE_TWILL","description":{"en":"Twill","pt":"Sarja"}}
+{"_id":{"$oid":"637f59cf2b478ec337185e16"},"code":"FABRIC_STRUCTURE_SATIN","description":{"en":"Satin","pt":"Cetim"}}
+{"_id":{"$oid":"637f59cf2b478ec337185e17"},"code":"FABRIC_STRUCTURE_OTHER","description":{"en":"Other","pt":"Outro"}}

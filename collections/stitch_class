@@ -1,0 +1,6 @@
+{"_id":{"$oid":"637671a766ee5926b8c055bc"},"code":"STITCH_CLASS_6xx","description":{"en":"","pt":"Ponto de Recobrimento"}}
+{"_id":{"$oid":"637671b766ee5926b8c055be"},"code":"STITCH_CLASS_5xx","description":{"en":"","pt":"Ponto de Orlar"}}
+{"_id":{"$oid":"637671c766ee5926b8c055c0"},"code":"STITCH_CLASS_4xx","description":{"en":"","pt":"Ponto de Cadeia Múltiplo"}}
+{"_id":{"$oid":"637671d966ee5926b8c055c2"},"code":"STITCH_CLASS_3xx","description":{"en":"","pt":"Ponto Preso"}}
+{"_id":{"$oid":"637671e566ee5926b8c055c4"},"code":"STITCH_CLASS_2xx","description":{"en":"","pt":"Ponto Manual"}}
+{"_id":{"$oid":"637671f166ee5926b8c055c6"},"code":"STITCH_CLASS_1xx","description":{"en":"","pt":"Ponto de Cadeia Simples"}}

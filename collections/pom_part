@@ -1,0 +1,3 @@
+{"_id":{"$oid":"637cb9c7a993bf17de1df021"},"code":"POM_PART_UPPER_BODY","description":{"en":"Upper Body Part","pt":""}}
+{"_id":{"$oid":"637cb9c7a993bf17de1df022"},"code":"POM_PART_SLEEVE","description":{"en":"Sleeve Part","pt":"Mangas"}}
+{"_id":{"$oid":"637cb9c7a993bf17de1df023"},"code":"POM_PART_COMPONENT","description":{"en":"Components","pt":"Componentes"}}

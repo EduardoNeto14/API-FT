@@ -1,0 +1,7 @@
+{"_id":{"$oid":"63765c2166ee5926b8c054ec"},"code":"COMPOSITION_COTTON","description":{"en":"Cotton","pt":"Algodão"}}
+{"_id":{"$oid":"63765c3366ee5926b8c054ee"},"code":"COMPOSITION_WOOL","description":{"en":"Wool","pt":"Lã"}}
+{"_id":{"$oid":"63765c4266ee5926b8c054f0"},"code":"COMPOSITION_SILK","description":{"en":"Silk","pt":"Seda"}}
+{"_id":{"$oid":"63765c5566ee5926b8c054f2"},"code":"COMPOSITION_POLYAMIDE","description":{"en":"Polyamide","pt":"Poliamida"}}
+{"_id":{"$oid":"63765c6466ee5926b8c054f4"},"code":"COMPOSITION_POLYESTER","description":{"en":"Polyester","pt":"Poliéster"}}
+{"_id":{"$oid":"63765d3466ee5926b8c054f6"},"code":"COMPOSITION_LINEN","description":{"en":"Linen","pt":"Linho"}}
+{"_id":{"$oid":"63765d4566ee5926b8c054f8"},"code":"COMPOSITION_POLYETHERSULFONE","description":{"en":"Polyethersulfone","pt":"Polietersulfona"}}

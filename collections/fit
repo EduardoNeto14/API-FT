@@ -1,0 +1,5 @@
+{"_id":{"$oid":"63765a5766ee5926b8c054d6"},"code":"FIT_OVERSIZED","description":{"en":"Oversized","pt":"Oversized"}}
+{"_id":{"$oid":"63765a6e66ee5926b8c054d8"},"code":"FIT_SLIM","description":{"en":"Slim Fit","pt":"Slim Fit"}}
+{"_id":{"$oid":"63765a9066ee5926b8c054da"},"code":"FIT_RELAXED","description":{"en":"Relaxed Fit","pt":"Relaxed Fit"}}
+{"_id":{"$oid":"63765ab566ee5926b8c054dc"},"code":"FIT_REGULAR","description":{"en":"Regular Fit","pt":"Regular Fit"}}
+{"_id":{"$oid":"63765acb66ee5926b8c054de"},"code":"FIT_BALLOON","description":{"en":"Balloon Fit","pt":"Balloon Fit"}}

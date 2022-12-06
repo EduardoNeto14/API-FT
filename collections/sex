@@ -1,0 +1,3 @@
+{"_id":{"$oid":"63765b1866ee5926b8c054e0"},"code":"SEX_MAN","description":{"en":"Man","pt":"Homem"}}
+{"_id":{"$oid":"63765b2666ee5926b8c054e2"},"code":"SEX_WOMAN","description":{"en":"Woman","pt":"Mulher"}}
+{"_id":{"$oid":"63765b3766ee5926b8c054e4"},"code":"SEX_UNISEX","description":{"en":"Unisex","pt":"Unisexo"}}

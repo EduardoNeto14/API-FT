@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6384d72dbb3bdf7677f92d13"},"type":"COLLAR_BASIC_WITH_STAND","description":{"en":"Basic Collar with Collar Stand","pt":"Colarinho Básico com Pé de Gola"},"specReference":"SPEC_COLLAR","img":""}
+{"_id":{"$oid":"6384d819bb3bdf7677f92d15"},"type":"CUFF_BASIC","description":{"en":"Basic Cuff","pt":"Punho Básico"},"specReference":"SPEC_CUFF","img":""}
+{"_id":{"$oid":"6384d841bb3bdf7677f92d17"},"type":"POCKET_BASIC","description":{"en":"Basic Pocket","pt":"Bolso Básico"},"specReference":"SPEC_POCKET","img":""}
+{"_id":{"$oid":"6384d88abb3bdf7677f92d19"},"type":"FRONT_PLACKET","description":{"en":"Front Placket","pt":"Carcela da Frente"},"specReference":"SPEC_PLACKET","img":""}
+{"_id":{"$oid":"6384d8aebb3bdf7677f92d1b"},"type":"SLEEVE_PLACKET","description":{"en":"Sleeve Placket","pt":"Carcela da Manga"},"specReference":"SPEC_PLACKET","img":""}

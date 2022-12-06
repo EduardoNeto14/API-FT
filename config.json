@@ -1,0 +1,13 @@
+{
+    "restAPI" : {
+        "ip" : "localhost",
+        "port" : "1234"
+    },
+
+    "mongoDB" : {
+        "ip" : "localhost",
+        "port" : 27017,
+        "username" : "root",
+        "password" : "password"
+    }
+}

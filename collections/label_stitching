@@ -1,0 +1,4 @@
+{"_id":{"$oid":"6377be25c78a2d6c9193af18"},"code":"LABEL_SIDE_TOP","description":{"en":"Top Edge","pt":"Extremidade Superior"},"img":""}
+{"_id":{"$oid":"6377be40c78a2d6c9193af1a"},"code":"LABEL_SIDE_BOTTOM","description":{"en":"Bottom Edge","pt":"Extremidade Inferior"},"img":""}
+{"_id":{"$oid":"6377be57c78a2d6c9193af1c"},"code":"LABEL_SIDE_LEFT","description":{"en":"Left Edge","pt":"Extremidade Lateral Esquerda"},"img":""}
+{"_id":{"$oid":"6377be69c78a2d6c9193af1e"},"code":"LABEL_SIDE_RIGHT","description":{"en":"Right Edge","pt":"Extremidade Lateral Direita"},"img":""}

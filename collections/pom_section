@@ -1,0 +1,4 @@
+{"_id":{"$oid":"637cb9c9a993bf17de1df024"},"code":"POM_SECTION_SET_IN_SLEEVES","description":{"en":"Set In Sleeves","pt":""},"garmentType":["FINISHED_PRODUCTS_SHIRT"],"partCode":"POM_PART_UPPER_BODY"}
+{"_id":{"$oid":"637cb9c9a993bf17de1df025"},"code":"POM_SECTION_SET_IN_SLEEVES","description":{"en":"Set In Sleeves","pt":""},"garmentType":["FINISHED_PRODUCTS_SHIRT"],"partCode":"POM_PART_SLEEVE"}
+{"_id":{"$oid":"637cb9c9a993bf17de1df026"},"code":"POM_SECTION_NECK_OPENING","description":{"en":"Component/Neck Opening","pt":""},"garmentType":["FINISHED_PRODUCTS_SHIRT"],"partCode":"POM_PART_COMPONENT"}
+{"_id":{"$oid":"637cb9c9a993bf17de1df027"},"code":"POM_SECTION_COLLARS","description":{"en":"Collars","pt":"Golas"},"garmentType":["FINISHED_PRODUCTS_SHIRT"],"partCode":"POM_PART_COMPONENT"}

@@ -1,0 +1,16 @@
+{"_id":{"$oid":"637f598f2b478ec337185e01"},"code":"NEEDLE_VARIETY_NORMAL_ROUND_TIP","description":{"en":"","pt":"Ponta Redonda Normal"}}
+{"_id":{"$oid":"637f598f2b478ec337185e02"},"code":"NEEDLE_VARIETY_SHARP_ROUND_TIP","description":{"en":"","pt":"Ponta Redonda Aguda"}}
+{"_id":{"$oid":"637f598f2b478ec337185e03"},"code":"NEEDLE_VARIETY_FINE_BALL_TIP","description":{"en":"","pt":"Ponta de Bola Fina"}}
+{"_id":{"$oid":"637f598f2b478ec337185e04"},"code":"NEEDLE_VARIETY_MEDIUM_BALL_TIP","description":{"en":"","pt":"Ponta de Bola Média"}}
+{"_id":{"$oid":"637f598f2b478ec337185e05"},"code":"NEEDLE_VARIETY_HEAVY_BALL_TIP","description":{"en":"","pt":"Ponta de Bola Pesada"}}
+{"_id":{"$oid":"637f598f2b478ec337185e06"},"code":"NEEDLE_VARIETY_SPECIAL_BALL_TIP","description":{"en":"","pt":"Ponta de Bola Especial"}}
+{"_id":{"$oid":"637f598f2b478ec337185e07"},"code":"NEEDLE_VARIETY_PEARL_TIP","description":{"en":"","pt":"Ponta Perolada"}}
+{"_id":{"$oid":"637f598f2b478ec337185e08"},"code":"NEEDLE_VARIETY_RIGHT_TIP","description":{"en":"","pt":"Ponta Direita"}}
+{"_id":{"$oid":"637f598f2b478ec337185e09"},"code":"NEEDLE_VARIETY_LEFT_TIP","description":{"en":"","pt":"Ponta Esquerda"}}
+{"_id":{"$oid":"637f598f2b478ec337185e0a"},"code":"NEEDLE_VARIETY_DIAMOND_TIP","description":{"en":"","pt":"Ponta Diamante"}}
+{"_id":{"$oid":"637f598f2b478ec337185e0b"},"code":"NEEDLE_VARIETY_TRIANGULAR_TIP","description":{"en":"","pt":"Ponta Triangular"}}
+{"_id":{"$oid":"637f598f2b478ec337185e0c"},"code":"NEEDLE_VARIETY_TRIANGULAR_WITH_SOCK_TIP","description":{"en":"","pt":"Ponta Triangular (com Meia)"}}
+{"_id":{"$oid":"637f598f2b478ec337185e0d"},"code":"NEEDLE_VARIETY_FOUR_EDGED_WITH_RIGHT_HAND_CUT_TIP","description":{"en":"","pt":"Ponta de Quatro Gumes de Corte à Direita"}}
+{"_id":{"$oid":"637f598f2b478ec337185e0e"},"code":"NEEDLE_VARIETY_ROUND_WITH_SMALL_TRIANGULAR_BLADE_TIP","description":{"en":"","pt":"Ponta Redonda com Lâmina Triangular Pequena"}}
+{"_id":{"$oid":"637f598f2b478ec337185e0f"},"code":"NEEDLE_VARIETY_MEDIUM_BALL_CASEAR_TIP","description":{"en":"","pt":"Ponta de Bola Média (Casear)"}}
+{"_id":{"$oid":"637f598f2b478ec337185e10"},"code":"NEEDLE_VARIETY_SEW_BUTTONS","description":{"en":"","pt":"Pregar Botões"}}

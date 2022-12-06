@@ -1,0 +1,6 @@
+{"_id":{"$oid":"6377b6abc78a2d6c9193af00"},"code":"BUTTONHOLE_FRONT_PLACKET_SINGLE","description":{"en":"Front Placket Buttonhole (Single)","pt":"Casa Carcela da Frente (Simples)"},"img":"","metadata":"SEW_BUTTONHOLE_POSITION_TYPE_SINGLE"}
+{"_id":{"$oid":"6377b70dc78a2d6c9193af02"},"code":"BUTTONHOLE_FRONT_PLACKET_MULTIPLE","description":{"en":"Front Placket Buttonhole (Multiple)","pt":"Casa Carcela da Frente (Múltiplas)"},"img":"","metadata":"SEW_BUTTONHOLE_POSITION_TYPE_MULTIPLE"}
+{"_id":{"$oid":"6377b728c78a2d6c9193af04"},"code":"BUTTONHOLE_COLLAR_STAND","description":{"en":"Collar Stand Buttonhole","pt":"Casa Pé de Gola"},"img":"","metadata":"SEW_BUTTONHOLE_POSITION_TYPE_SINGLE"}
+{"_id":{"$oid":"6377b72dc78a2d6c9193af06"},"code":"BUTTONHOLE_SLEEVE_PACKET_SINGLE","description":{"en":"Sleeve Placket Buttonhole (Single)","pt":"Casa Carcela Manga (Simples)"},"img":"","metadata":"SEW_BUTTONHOLE_POSITION_TYPE_SINGLE"}
+{"_id":{"$oid":"6377b731c78a2d6c9193af08"},"code":"BUTTONHOLE_CUFF_SINGLE","description":{"en":"Cuff Buttonhole (Single)","pt":"Casa Punho (Simples)"},"img":"","metadata":"SEW_BUTTONHOLE_POSITION_TYPE_SINGLE"}
+{"_id":{"$oid":"6377b735c78a2d6c9193af0a"},"code":"BUTTONHOLE_COLLAR_SINGLE","description":{"en":"Collar Buttonhole (Single)","pt":"Casa Gola (Simples)"},"img":"","metadata":"SEW_BUTTONHOLE_POSITION_TYPE_SINGLE"}

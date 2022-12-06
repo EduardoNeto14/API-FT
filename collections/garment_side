@@ -1,0 +1,2 @@
+{"_id":{"$oid":"6377c14dc78a2d6c9193af24"},"code":"GARMENT_LEFT","description":{"en":"Left Side","pt":"Lado Esquerdo"}}
+{"_id":{"$oid":"6377c170c78a2d6c9193af26"},"code":"GARMENT_RIGHT","description":{"en":"Right Side","pt":"Lado Direito"}}

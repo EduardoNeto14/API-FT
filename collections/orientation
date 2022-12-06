@@ -1,0 +1,2 @@
+{"_id":{"$oid":"6377bf13c78a2d6c9193af20"},"code":"ORIENTATION_HORIZONTAL","description":{"en":"Horizontal","pt":"Horizontal"}}
+{"_id":{"$oid":"6377bf26c78a2d6c9193af22"},"code":"ORIENTATION_VERTICAL","description":{"en":"Vertical","pt":"Vertical"}}

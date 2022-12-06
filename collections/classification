@@ -1,0 +1,3 @@
+{"_id":{"$oid":"63765b5766ee5926b8c054e6"},"code":"CLASS_ADULT","description":{"en":"Adult","pt":"Adulto"}}
+{"_id":{"$oid":"63765b6766ee5926b8c054e8"},"code":"CLASS_BABY","description":{"en":"Baby","pt":"Bebé"}}
+{"_id":{"$oid":"63765b7b66ee5926b8c054ea"},"code":"CLASS_KID","description":{"en":"Kid","pt":"Criança"}}

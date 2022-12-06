@@ -1,0 +1,4 @@
+{"_id":{"$oid":"63765da966ee5926b8c054fa"},"code":"SEASON_WINTER","description":{"en":"Winter","pt":"Inverno"}}
+{"_id":{"$oid":"63765dbc66ee5926b8c054fc"},"code":"SEASON_AUTUMN","description":{"en":"Autumn","pt":"Outono"}}
+{"_id":{"$oid":"63765dce66ee5926b8c054fe"},"code":"SEASON_SPRING","description":{"en":"Spring","pt":"Primavera"}}
+{"_id":{"$oid":"63765de166ee5926b8c05500"},"code":"SEASON_SUMMER","description":{"en":"Summer","pt":"Verão"}}

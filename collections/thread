@@ -1,0 +1,9 @@
+{"_id":{"$oid":"637f591e2b478ec337185df8"},"code":"THREAD_COMPOSITION_SILK","description":{"en":"","pt":"Linha de Seda"}}
+{"_id":{"$oid":"637f591e2b478ec337185df9"},"code":"THREAD_COMPOSITION_LINEN","description":{"en":"","pt":"Linha de Linho"}}
+{"_id":{"$oid":"637f591e2b478ec337185dfa"},"code":"THREAD_COMPOSITION_COTTON","description":{"en":"","pt":"Linha de Algodão"}}
+{"_id":{"$oid":"637f591e2b478ec337185dfb"},"code":"THREAD_COMPOSITION_COTTON_SOFT","description":{"en":"","pt":"Linha de Algodão Suave"}}
+{"_id":{"$oid":"637f591e2b478ec337185dfc"},"code":"THREAD_COMPOSITION_COTTON_POLISHED","description":{"en":"","pt":"Linha de Algodão Polido"}}
+{"_id":{"$oid":"637f591e2b478ec337185dfd"},"code":"THREAD_COMPOSITION_COTTON_MERCERIZED","description":{"en":"","pt":"Linha de Algodão Mercerizado"}}
+{"_id":{"$oid":"637f591e2b478ec337185dfe"},"code":"THREAD_COMPOSITION_POLYAMIDE","description":{"en":"","pt":"Linha de Poliamida"}}
+{"_id":{"$oid":"637f591e2b478ec337185dff"},"code":"THREAD_COMPOSITION_POLYESTER","description":{"en":"","pt":"Linha de Poliéster"}}
+{"_id":{"$oid":"637f591e2b478ec337185e00"},"code":"THREAD_COMPOSITION_VISCOSE","description":{"en":"","pt":"Linha de Viscose"}}

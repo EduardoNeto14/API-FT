@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6376755266ee5926b8c055c8"},"code":"BOM_BUTTON","description":{"en":"Button","pt":"Botão"},"metadata":"BOM_BUTTON_SPEC"}
+{"_id":{"$oid":"6376755b66ee5926b8c055ca"},"code":"BOM_LABEL","description":{"en":"Label","pt":"Etiqueta"},"metadata":"BOM_LABEL_SPEC"}
+{"_id":{"$oid":"6376756566ee5926b8c055cc"},"code":"BOM_THREAD","description":{"en":"Thread","pt":"Linha"},"metadata":"BOM_THREAD_SPEC"}
+{"_id":{"$oid":"6376757066ee5926b8c055ce"},"code":"BOM_STABILIZER","description":{"en":"Stabilizer","pt":"Entretela"},"metadata":"BOM_STABILIZER_SPEC"}
+{"_id":{"$oid":"6376757c66ee5926b8c055d0"},"code":"BOM_FABRIC","description":{"en":"Fabric","pt":"Tecido"},"metadata":"BOM_FABRIC_SPEC"}
