@@ -400,6 +400,62 @@ class ButtonholeType(Resource):
 api.add_resource(ButtonholeType, "/v0/stvgodigital/pps3/techpack/info/buttonhole")
 
 
+class ButtonholeMetadata(Resource):
+    parser_get = reqparse.RequestParser()
+    parser_get.add_argument("buttonholeType", required = True, location = "json")
+
+    def get(self):
+        args = self.parser_get.parse_args()
+
+        database = pymongo.MongoClient(port = 27017, username = "root", password = "password")
+        
+        query = [
+            {
+                "$match" : {
+                    "code" : args["buttonholeType"]
+                }
+            },
+
+            {
+                "$lookup" : {
+                    "from" : "metadata",
+                    "localField" : "metadata",
+                    "foreignField" : "type",
+                    "as" : "metadataType"
+                }
+            },
+
+            {
+                "$unwind" : "$metadataType"
+            },
+
+            {
+                "$project" : {
+                    "_id" : 0,
+                    "metadataType.metadata" : 1
+                }
+            }
+        ]
+
+        result = database["techpack"]["buttonhole_type"].aggregate(query)
+
+        data = None
+
+        for r in result:
+            data = r["metadataType"]["metadata"]
+
+        if data is None:
+            response = jsonify({"message" : "Invalid argument."})
+            response.status_code = 406
+        else:
+            response = jsonify(data)
+            response.status_code = 200
+
+        return response
+
+api.add_resource(ButtonholeMetadata, "/v0/stvgodigital/pps3/techpack/info/buttonhole/metadata")
+
+
 class ButtonType(Resource):
     def get(self):
         database = pymongo.MongoClient(port = 27017, username = "root", password = "password")
@@ -867,8 +923,6 @@ class StitchInfo(Resource):
 
         data = [d for d in database["techpack"]["stitch_point"].aggregate(query)]
         
-        print(data)
-
         if data == []:
             response = jsonify({"message" : "Invalid argument!"})
             response.status_code = 406
@@ -1072,12 +1126,7 @@ class OperationInfo(Resource):
         
         database = pymongo.MongoClient(port = 27017, username = "root", password = "password")
 
-        result = database["techpack"]["operation_info"].aggregate(query)
-
-        data = []
-
-        for d in result:
-            data.append(d)
+        data = [d for d in database["techpack"]["operation_info"].aggregate(query)]
 
         if data == []:
             response = jsonify({"message" : "Invalid specType."})
@@ -1103,7 +1152,7 @@ class OperationInfoMetadata(Resource):
 
         if args["operationCode"] is None and args["specType"] is None:
             response = jsonify({"message" : "You need to specify at least one of the arguments."})
-            response.status_code = 406
+            response.status_code = 400
 
             return response
         
@@ -1246,7 +1295,7 @@ class OperationInfoMetadata(Resource):
 
         return response
 
-api.add_resource(OperationInfoMetadata, "/v0/stvgodigital/pps3/techpack/info/operation/metadata")
+api.add_resource(OperationInfoMetadata, "/v0/stvgodigital/pps3/techpack/info/sewing/operation/metadata")
 
 
 class PlacketView(Resource):
